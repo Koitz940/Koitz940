@@ -2,12 +2,6 @@
   "username": "Koitz940",
   "widgets": [
     {
-      "instanceId": "widget_1793467173247_4",
-      "widgetId": "footer",
-      "position": {
-        "x": 0,
-        "y": 851
-      },
       "size": {
         "width": 800,
         "height": 40
@@ -15,80 +9,91 @@
       "config": {
         "textColor": "#ffffff",
         "accentColor": "#ffffff",
-        "backgroundColor": "transparent",
-        "borderColor": "github-auto"
+        "borderColor": "github-auto",
+        "backgroundColor": "transparent"
       },
       "locked": false,
+      "zIndex": 1,
       "visible": true,
-      "zIndex": 1
+      "position": {
+        "x": 0,
+        "y": 851
+      },
+      "widgetId": "footer",
+      "instanceId": "widget_1793467173247_4"
     },
     {
-      "instanceId": "widget_bce6f2be-84a2-4c51-9f3f-6eaea5e9c814",
-      "widgetId": "surveillance-title",
-      "position": {
-        "x": 10,
-        "y": 16
-      },
       "size": {
         "width": 780,
         "height": 30
       },
       "config": {
+        "ledColor": "#ff5555",
+        "customRef": "HTTP://GITHUB/KOITZ940",
+        "showTitle": true,
         "accentColor": "#55ffff",
         "customTitle": "Surveillance Window",
-        "showTitle": true,
-        "customRef": "HTTP://GITHUB/KOITZ940",
-        "referenceTag": "HTTP://GITHUB/KOITZ940",
-        "ledColor": "#ff5555"
+        "referenceTag": "HTTP://GITHUB/KOITZ940"
       },
       "locked": false,
+      "zIndex": 2,
       "visible": true,
-      "zIndex": 2
+      "position": {
+        "x": 10,
+        "y": 16
+      },
+      "widgetId": "surveillance-title",
+      "instanceId": "widget_bce6f2be-84a2-4c51-9f3f-6eaea5e9c814"
     },
     {
-      "instanceId": "widget_cb94b307-3937-4407-adaa-391c7bfd8917",
-      "widgetId": "surveillance-header",
-      "position": {
-        "x": 24,
-        "y": 70
-      },
       "size": {
         "width": 728,
         "height": 377
       },
       "config": {
+        "coords": "◎ 43.3803586, -2.9617172,17.58",
+        "modeTag": "198X MODE",
+        "roleTag": "A cat",
+        "ledColor": "#ffffff",
+        "username": "Koitz940",
+        "quoteText": "BALLS",
+        "showTitle": false,
         "accentColor": "#e6fbfb",
         "customTitle": "Surveillance Header",
-        "secondaryColor": "#8a8a8a",
-        "ledColor": "#ffffff",
         "displayName": "K̢͇̜̼̳̒̆̈͆͜͞o̸̧̖̮̻͍͕̣͍͙̹͋ͩ̿ͪ͂́̃̿̎͑i̷̪͚̥̯̘̺̲̪̩̞̬͑͋̏͊͗͑͗͑͢͡t͚̣̫͊͗͆z̸͔͙͓̮̑ͭ̓͐ͪ̅͆ͥ̓̓̅ͧ̄̆̇̀͘͢҉̛̝͔̠͙̠̽̌̄ͨͣ̈̋",
-        "username": "Koitz940",
-        "roleTag": "A cat",
-        "modeTag": "198X MODE",
-        "quoteText": "“meowwwwwwwwwwwwwwwwwwwwwwwwwwwwww^π”",
-        "coords": "◎ 43.3803586, -2.9617172,17.58",
         "animationType": "none",
-        "animationPreviewKey": 4,
+        "secondaryColor": "#8a8a8a",
         "backgroundColor": "transparent",
-        "showTitle": false
+        "animationPreviewKey": 4,
+        "customBio": "I am a dude that does dude things"
       },
       "locked": false,
+      "zIndex": 3,
       "visible": true,
-      "zIndex": 3
+      "position": {
+        "x": 24,
+        "y": 70
+      },
+      "widgetId": "surveillance-header",
+      "instanceId": "widget_cb94b307-3937-4407-adaa-391c7bfd8917"
     },
     {
-      "instanceId": "widget_6c1d91ad-9f75-43cf-bdb4-389b0e8bb7cd",
-      "widgetId": "pokemon-card",
-      "position": {
-        "x": 600,
-        "y": 463
-      },
       "size": {
         "width": 112,
         "height": 128
       },
       "config": {
-        "searchQuery": "jirachi",
+        "scale": 1,
+        "glareX": 50,
+        "glareY": 50,
+        "shineX": 50,
+        "shineY": 50,
+        "rotateX": 0,
+        "rotateY": 0,
+        "imageUrl": "https://assets.tcgdex.net/en/sm/sm9/99/low.webp",
+        "intensity": 1,
+        "cardRawUrl": "https://assets.tcgdex.net/en/sm/sm9/99/low.png",
+        "enableHolo": false,
         "searchCards": [
           {
             "id": "hgss2-1",
@@ -191,29 +196,19 @@
             "image": "https://assets.tcgdex.net/en/swsh/swsh12/120/low.png"
           }
         ],
-        "cardRawUrl": "https://assets.tcgdex.net/en/sm/sm9/99/low.png",
-        "enableHolo": false,
-        "rotateX": 0,
-        "rotateY": 0,
-        "glareX": 50,
-        "glareY": 50,
-        "shineX": 50,
-        "shineY": 50,
-        "intensity": 1,
-        "scale": 1,
-        "imageUrl": "https://assets.tcgdex.net/en/sm/sm9/99/low.webp"
+        "searchQuery": "jirachi"
       },
       "locked": false,
+      "zIndex": 4,
       "visible": true,
-      "zIndex": 4
-    },
-    {
-      "instanceId": "widget_90306af6-3b5c-4e4d-b7b5-892155b9f7d7",
-      "widgetId": "surveillance-telemetry",
       "position": {
-        "x": 24,
+        "x": 600,
         "y": 463
       },
+      "widgetId": "pokemon-card",
+      "instanceId": "widget_6c1d91ad-9f75-43cf-bdb4-389b0e8bb7cd"
+    },
+    {
       "size": {
         "width": 560,
         "height": 382
@@ -223,58 +218,65 @@
         "customTitle": "Terminal Telemetry"
       },
       "locked": false,
+      "zIndex": 6,
       "visible": true,
-      "zIndex": 6
+      "position": {
+        "x": 24,
+        "y": 463
+      },
+      "widgetId": "surveillance-telemetry",
+      "instanceId": "widget_90306af6-3b5c-4e4d-b7b5-892155b9f7d7"
     },
     {
-      "instanceId": "widget_bf823c62-3cfc-46e1-9eed-0b43d8afc38b",
-      "widgetId": "tech-stack",
-      "position": {
-        "x": 36,
-        "y": 296
-      },
       "size": {
         "width": 424,
         "height": 104
       },
       "config": {
+        "showTitle": true,
+        "hideBorder": true,
+        "borderColor": "#7a7a7a",
+        "customTitle": "I am good at describind roundness",
+        "animationType": "none",
         "selectedTechs": [
-          "c",
-          "bash",
-          "perl",
-          "cpp",
-          "html",
-          "docker",
-          "php",
           "py",
-          "nginx"
+          "rust",
+          "cpp",
+          "r",
+          "c",
+          "matlab"
         ],
         "backgroundColor": "transparent",
-        "borderColor": "#7a7a7a",
-        "hideBorder": true,
         "hideDecorations": false,
-        "showTitle": true,
-        "customTitle": "Target abilities:",
-        "animationType": "none",
-        "animationPreviewKey": 9
+        "animationPreviewKey": 11
       },
       "locked": false,
+      "zIndex": 6,
       "visible": true,
-      "zIndex": 6
+      "position": {
+        "x": 40,
+        "y": 308
+      },
+      "widgetId": "tech-stack",
+      "instanceId": "widget_bf823c62-3cfc-46e1-9eed-0b43d8afc38b"
     },
     {
-      "instanceId": "widget_ffb16c52-f531-484f-be98-c028fe005a9c_0",
-      "widgetId": "pokemon-card",
-      "position": {
-        "x": 664,
-        "y": 506
-      },
       "size": {
         "width": 112,
         "height": 128
       },
       "config": {
-        "searchQuery": "Pikachu",
+        "scale": 1,
+        "glareX": 50,
+        "glareY": 50,
+        "shineX": 50,
+        "shineY": 50,
+        "rotateX": 0,
+        "rotateY": 0,
+        "imageUrl": "https://assets.tcgdex.net/en/tcgp/P-A/015/low.webp",
+        "intensity": 1,
+        "cardRawUrl": "https://assets.tcgdex.net/en/tcgp/P-A/015/low.png",
+        "enableHolo": false,
         "searchCards": [
           {
             "id": "basep-1",
@@ -377,35 +379,35 @@
             "image": "https://assets.tcgdex.net/en/sv/sv04.5/018/low.png"
           }
         ],
-        "cardRawUrl": "https://assets.tcgdex.net/en/tcgp/P-A/015/low.png",
-        "enableHolo": false,
-        "rotateX": 0,
-        "rotateY": 0,
-        "glareX": 50,
-        "glareY": 50,
-        "shineX": 50,
-        "shineY": 50,
-        "intensity": 1,
-        "scale": 1,
-        "imageUrl": "https://assets.tcgdex.net/en/tcgp/P-A/015/low.webp"
+        "searchQuery": "Pikachu"
       },
       "locked": false,
+      "zIndex": 7,
       "visible": true,
-      "zIndex": 7
+      "position": {
+        "x": 664,
+        "y": 506
+      },
+      "widgetId": "pokemon-card",
+      "instanceId": "widget_ffb16c52-f531-484f-be98-c028fe005a9c_0"
     },
     {
-      "instanceId": "widget_84c5b85e-5f11-4c8b-9213-d25bd1759b47_0",
-      "widgetId": "pokemon-card",
-      "position": {
-        "x": 592,
-        "y": 590
-      },
       "size": {
         "width": 112,
         "height": 128
       },
       "config": {
-        "searchQuery": "Incineroar",
+        "scale": 1,
+        "glareX": 50,
+        "glareY": 50,
+        "shineX": 50,
+        "shineY": 50,
+        "rotateX": 0,
+        "rotateY": 0,
+        "imageUrl": "https://assets.tcgdex.net/en/tcgp/B1/318/low.webp",
+        "intensity": 1,
+        "cardRawUrl": "https://assets.tcgdex.net/en/tcgp/B1/318/low.png",
+        "enableHolo": false,
         "searchCards": [
           {
             "id": "swsh3.5-8",
@@ -493,35 +495,35 @@
             "image": "https://assets.tcgdex.net/en/sm/smp/SM38/low.png"
           }
         ],
-        "cardRawUrl": "https://assets.tcgdex.net/en/tcgp/B1/318/low.png",
-        "enableHolo": false,
-        "rotateX": 0,
-        "rotateY": 0,
-        "glareX": 50,
-        "glareY": 50,
-        "shineX": 50,
-        "shineY": 50,
-        "intensity": 1,
-        "scale": 1,
-        "imageUrl": "https://assets.tcgdex.net/en/tcgp/B1/318/low.webp"
+        "searchQuery": "Incineroar"
       },
       "locked": false,
+      "zIndex": 8,
       "visible": true,
-      "zIndex": 8
+      "position": {
+        "x": 592,
+        "y": 590
+      },
+      "widgetId": "pokemon-card",
+      "instanceId": "widget_84c5b85e-5f11-4c8b-9213-d25bd1759b47_0"
     },
     {
-      "instanceId": "widget_201d18f8-a6c1-4734-b038-053ed8208987_0",
-      "widgetId": "pokemon-card",
-      "position": {
-        "x": 664,
-        "y": 642
-      },
       "size": {
         "width": 112,
         "height": 128
       },
       "config": {
-        "searchQuery": "Wigglytuff",
+        "scale": 1,
+        "glareX": 50,
+        "glareY": 50,
+        "shineX": 50,
+        "shineY": 50,
+        "rotateX": 0,
+        "rotateY": 0,
+        "imageUrl": "https://assets.tcgdex.net/en/ex/ex14/13/low.webp",
+        "intensity": 1,
+        "cardRawUrl": "https://assets.tcgdex.net/en/ex/ex14/13/low.png",
+        "enableHolo": false,
         "searchCards": [
           {
             "id": "ex14-13",
@@ -624,35 +626,35 @@
             "image": "https://assets.tcgdex.net/en/sv/sv02/084/low.png"
           }
         ],
-        "cardRawUrl": "https://assets.tcgdex.net/en/ex/ex14/13/low.png",
-        "enableHolo": false,
-        "rotateX": 0,
-        "rotateY": 0,
-        "glareX": 50,
-        "glareY": 50,
-        "shineX": 50,
-        "shineY": 50,
-        "intensity": 1,
-        "scale": 1,
-        "imageUrl": "https://assets.tcgdex.net/en/ex/ex14/13/low.webp"
+        "searchQuery": "Wigglytuff"
       },
       "locked": false,
+      "zIndex": 9,
       "visible": true,
-      "zIndex": 9
+      "position": {
+        "x": 664,
+        "y": 642
+      },
+      "widgetId": "pokemon-card",
+      "instanceId": "widget_201d18f8-a6c1-4734-b038-053ed8208987_0"
     },
     {
-      "instanceId": "widget_49194a6b-c1a6-4e30-aaba-0b9008415676_0",
-      "widgetId": "pokemon-card",
-      "position": {
-        "x": 600,
-        "y": 717
-      },
       "size": {
         "width": 112,
         "height": 128
       },
       "config": {
-        "searchQuery": "mimikyu",
+        "scale": 1,
+        "glareX": 50,
+        "glareY": 50,
+        "shineX": 50,
+        "shineY": 50,
+        "rotateX": 0,
+        "rotateY": 0,
+        "imageUrl": "https://assets.tcgdex.net/en/sm/sm12/96/low.webp",
+        "intensity": 1,
+        "cardRawUrl": "https://assets.tcgdex.net/en/sm/sm12/96/low.png",
+        "enableHolo": false,
         "searchCards": [
           {
             "id": "svp-004",
@@ -755,37 +757,33 @@
             "image": "https://assets.tcgdex.net/en/me/me02.5/097/low.png"
           }
         ],
-        "cardRawUrl": "https://assets.tcgdex.net/en/sm/sm12/96/low.png",
-        "enableHolo": false,
-        "rotateX": 0,
-        "rotateY": 0,
-        "glareX": 50,
-        "glareY": 50,
-        "shineX": 50,
-        "shineY": 50,
-        "intensity": 1,
-        "scale": 1,
-        "imageUrl": "https://assets.tcgdex.net/en/sm/sm12/96/low.webp"
+        "searchQuery": "mimikyu"
       },
       "locked": false,
+      "zIndex": 10,
       "visible": true,
-      "zIndex": 10
+      "position": {
+        "x": 600,
+        "y": 717
+      },
+      "widgetId": "pokemon-card",
+      "instanceId": "widget_49194a6b-c1a6-4e30-aaba-0b9008415676_0"
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#1E2326",
-    "borderColor": "#272E33",
     "textColor": "#e5e5e5",
-    "accentColor": "#c5ff4a",
     "fontFamily": "'JetBrains Mono', monospace",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#272E33",
     "borderRadius": 0,
-    "transparentBackground": true,
-    "templateStyle": "native"
+    "templateStyle": "native",
+    "backgroundColor": "#1E2326",
+    "transparentBackground": true
   },
   "templateId": "seeyouwhoosh",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793561634820_2ge8m",
-    "updatedAt": "2026-11-01T19:33:57.416Z"
+    "revision": "rev_1793561990785_6079h",
+    "updatedAt": "2026-11-01T19:39:53.667Z"
   }
 }
