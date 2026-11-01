@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @Koitz940
-- 👀 I’m interested in ... mainly doing AoC for fun
-- 🌱 I’m currently learning ... Maths and the basics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ...
-
-<!---
-Koitz940/Koitz940 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koitz940/koitz940/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koitz940/koitz940/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/koitz940/koitz940/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
